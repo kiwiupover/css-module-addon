@@ -3,6 +3,14 @@ css-module-addon
 
 [Short description of the addon.]
 
+
+Compatibility
+------------------------------------------------------------------------------
+
+* Ember.js v2.18 or above
+* Ember CLI v2.13 or above
+
+
 Installation
 ------------------------------------------------------------------------------
 
@@ -20,10 +28,10 @@ Usage
 Contributing
 ------------------------------------------------------------------------------
 
-### Installation
+See the [Contributing](CONTRIBUTING.md) guide for details.
 
 * `git clone <repository-url>`
-* `cd css-module-addon`
+* `cd my-addon`
 * `npm install`
 
 ### Linting
