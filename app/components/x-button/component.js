@@ -1,0 +1,1 @@
+export { default } from 'css-module-addon/components/x-button/component';
